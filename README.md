@@ -1,4 +1,4 @@
-# portfoliowb
+# portfolio
 #portfoliowebsite
 This is my portfolio website .
 I made this website using html, css, and java script
